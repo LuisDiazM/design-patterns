@@ -1,0 +1,17 @@
+{
+  "name": "factory",
+  "version": "1.0.0",
+  "description": "This is an example to work with a factory pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc index.ts && node index.js"
+  },
+  "keywords": [
+    "factory"
+  ],
+  "author": "Luis Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.3"
+  }
+}
