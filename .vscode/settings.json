@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/luismiguel/Documents/virtualenvs/design/bin/python3.6",
+    "python.analysis.extraPaths": [
+        "./factory/python"
+    ]
+}
